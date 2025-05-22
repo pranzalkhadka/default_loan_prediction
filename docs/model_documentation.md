@@ -117,14 +117,5 @@ See [Assumptions and Limitations](#) for details.
 
 ---
 
-## References
-
-- [Data Dictionary](#)  
-- [Preprocessing Steps](#)  
-- [Performance Report](#)  
-- [Assumptions and Limitations](#)  
-- [Deployment Guide](#)  
-
----
 
 *For questions or further details, please contact the Data Science Team.*

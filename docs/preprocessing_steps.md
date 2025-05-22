@@ -64,8 +64,3 @@ This document describes the preprocessing pipeline for the HMDA dataset, prepari
 - **Output:** Standardized features with `mean=0` and `std=1`
 
 ---
-
-### 7. Save Output
-
-- **Preprocessed file:** `data/preprocessed/hmda_preprocessed.csv`  
-- **Scaler object:** `models/scaler.pkl`
